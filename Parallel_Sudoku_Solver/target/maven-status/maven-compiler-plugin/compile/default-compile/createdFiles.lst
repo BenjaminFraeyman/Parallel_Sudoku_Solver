@@ -1,0 +1,8 @@
+Sudoku\SudokuSolver.class
+Sudoku\Perf.class
+Sudoku\SudokuBoard$SudokuException.class
+Sudoku\SudokuBoard.class
+Sudoku\FrontEnd.class
+Sudoku\ParallelSudokuSolver.class
+Sudoku\ParallelSudokuSolver$SudokuTask.class
+Sudoku\IntSet.class
